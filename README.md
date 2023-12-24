@@ -13,3 +13,4 @@ False Negative (FN): 565
 
 The model performs well in predicting the majority class ("no") but shows some limitations in predicting the minority class ("yes").
 The relatively lower precision, recall, and F1-score for the "yes" class indicate that the model has challenges correctly identifying instances of the "yes" class.
+The dataset was downloaded from: https://archive.ics.uci.edu/dataset/222/bank+marketing
